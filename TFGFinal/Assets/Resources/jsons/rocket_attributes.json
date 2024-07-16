@@ -1,0 +1,16 @@
+{
+    "thrustForce": 3021.0,
+    "scaleForceUser": 0.009999999776482582,
+    "groundRayDistance": 100.0,
+    "PlanetGravity": 15.0,
+    "windForce": 28.0,
+    "propulsorActivationHeight": 3000.0,
+    "maxVelocityforLanding": 223.0,
+    "windMinTime": 3.0,
+    "windMaxTime": 5.0,
+    "parachuteThrustMultiplier": 0.5,
+    "parachuteGravityReduction": 95.0,
+    "massPercentageDecrease": 0.10000000149011612,
+    "fuelConsumptionAmount": 5.0,
+    "fuelAmount": 2500.0
+}
