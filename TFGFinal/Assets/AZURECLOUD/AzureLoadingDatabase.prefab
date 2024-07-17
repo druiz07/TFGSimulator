@@ -49,7 +49,7 @@ MonoBehaviour:
   - marsImage
   loadingBarGO: {fileID: 3366500657231025021, guid: 39dc75ebfbd313f43b7b47b282571b45, type: 3}
   storageAccount: landingfbxmodels
-  accessKey: UCGJraGa9yySaIEkoRbULY5h/XS3UdH2aPuDR1R44WRQOof6Tv1+KwyAy3RjGMrmoIWWjBKDuvZg+AStSrlnrw==
+  accessKey: 
   container: prueba
 --- !u!114 &-7718517815456040712
 MonoBehaviour:
